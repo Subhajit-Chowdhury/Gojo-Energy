@@ -50,7 +50,7 @@ A cursed technique visualizer based on **Jujutsu Kaisen** (呪術廻戦). Combin
 ### Installation
 
 ```bash
-git clone https://github.com/Subhajit-Chowdhury/SAT0RU.git
+git clone https://github.com/Subhajit-Chowdhury/Gojo-Energy.git
 cd SAT0RU
 ```
 
