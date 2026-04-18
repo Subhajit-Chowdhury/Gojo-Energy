@@ -16,7 +16,7 @@ A cursed technique visualizer based on **Jujutsu Kaisen** (呪術廻戦). Combin
 
 3. **Open in browser** and allow webcam access to start using hand gestures!
 
-**🌐 Live Demo:** [https://gojo-energy.netlify.app/](https://gojo-energy.netlify.app/)
+**🌐 Live Demo:** [https://gojo-energy.netlify.app/](https://gojo-energy.netlify.app/){:target="_blank"}
 
 ![Demo](https://github.com/user-attachments/assets/8ad2b871-02c0-4b97-95f3-34682e745be0)
 
