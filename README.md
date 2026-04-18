@@ -1,6 +1,20 @@
-# SAT0RU - Cursed Technique Visualizer
+# Gojo Energy - Cursed Technique Visualizer
 
 A cursed technique visualizer based on **Jujutsu Kaisen** (呪術廻戦). Combines MediaPipe hand tracking with Three.js particles to recreate iconic cursed techniques from the anime.
+
+## Quick Start
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Subhajit-Chowdhury/Gojo-Energy.git
+   cd Gojo-Energy
+   ```
+
+2. **Run the project:**
+   - **VS Code:** Install "Live Server" extension → Right-click `index.html` → "Open with Live Server"
+   - **Python:** Run `python -m http.server 8000` → Open `http://localhost:8000`
+
+3. **Open in browser** and allow webcam access to start using hand gestures!
 
 **🌐 Live Demo:** [https://gojo-energy.netlify.app/](https://gojo-energy.netlify.app/)
 
@@ -51,7 +65,7 @@ A cursed technique visualizer based on **Jujutsu Kaisen** (呪術廻戦). Combin
 
 ```bash
 git clone https://github.com/Subhajit-Chowdhury/Gojo-Energy.git
-cd SAT0RU
+cd Gojo-Energy
 ```
 
 ### Run the Project
